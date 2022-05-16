@@ -1,0 +1,81 @@
+body{
+  text-align: center;
+  background-color: #393E46;
+}
+h1{
+font-family: 'Press Start 2P', cursive;
+color: #00FFC6;
+font-size: 4.5rem;
+
+}
+.flag{
+  font-size: 5rem;
+  position: relative;
+  bottom: 10px;
+}
+th{
+font-family: 'Mali', cursive;
+font-size: 30px;
+padding-bottom: 30px;
+font-weight: bolder;
+color: #B8FFF9;
+}
+img{
+  height: 220px;
+  display: block;
+}
+table{
+  margin:auto;
+  margin-top: 100px;
+}
+td{
+  padding-right: 70px;
+  padding-left: 70px;
+}
+h3{
+  position: absolute;
+  bottom: 30px;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  color: white;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  color: #7FB5FF;
+}
+
+.btn {
+  background: #d9344f;
+  background-image: -webkit-linear-gradient(top, #d9344f, #b82c46);
+  background-image: -moz-linear-gradient(top, #d9344f, #b82c46);
+  background-image: -ms-linear-gradient(top, #d9344f, #b82c46);
+  background-image: -o-linear-gradient(top, #d9344f, #b82c46);
+  background-image: linear-gradient(to bottom, #d9344f, #b82c46);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 30px 10px 30px;
+  border: solid #000000 0.5px;
+  text-decoration: none;
+  position: absolute;
+  bottom:120px;
+  left: 47%;;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #ed1c09;
+  background-image: -webkit-linear-gradient(top, #ed1c09, #d93434);
+  background-image: -moz-linear-gradient(top, #ed1c09, #d93434);
+  background-image: -ms-linear-gradient(top, #ed1c09, #d93434);
+  background-image: -o-linear-gradient(top, #ed1c09, #d93434);
+  background-image: linear-gradient(to bottom, #ed1c09, #d93434);
+  text-decoration: none;
+}
